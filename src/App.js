@@ -8,7 +8,7 @@ import UserTable from "./Components/UserTable";
 import SearchBar from "./Components/Search";
 import "react-toastify/dist/ReactToastify.css";
 
-const API_url = "/api/users";
+const API_url = "https://crud-app-ucun.onrender.com";
 
 function App() {
   const [users, setUsers] = useState([]);
