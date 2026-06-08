@@ -72,3 +72,5 @@ Styling: CSS
 
 Dev Tools: Nodemon, Concurrently
 
+## Live Demo
+[Click here](https://crud-app-zeta-taupe.vercel.app/)
